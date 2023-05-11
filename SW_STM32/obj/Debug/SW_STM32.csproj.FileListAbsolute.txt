@@ -1,0 +1,21 @@
+D:\VisualStudio_data\Winform C#\SW_STM32\obj\Debug\SW_STM32.csproj.AssemblyReference.cache
+D:\VisualStudio_data\Winform C#\SW_STM32\obj\Debug\SW_STM32.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio_data\Winform C#\SW_STM32\obj\Debug\SW_STM32.Form1.resources
+D:\VisualStudio_data\Winform C#\SW_STM32\obj\Debug\SW_STM32.Properties.Resources.resources
+D:\VisualStudio_data\Winform C#\SW_STM32\obj\Debug\SW_STM32.csproj.GenerateResource.cache
+D:\VisualStudio_data\Winform C#\SW_STM32\obj\Debug\SW_STM32.csproj.CoreCompileInputs.cache
+D:\VisualStudio_data\Winform C#\SW_STM32\bin\Debug\SW_STM32.exe.config
+D:\VisualStudio_data\Winform C#\SW_STM32\bin\Debug\SW_STM32.exe
+D:\VisualStudio_data\Winform C#\SW_STM32\bin\Debug\SW_STM32.pdb
+D:\VisualStudio_data\Winform C#\SW_STM32\obj\Debug\SW_STM32.exe
+D:\VisualStudio_data\Winform C#\SW_STM32\obj\Debug\SW_STM32.pdb
+D:\SW_STM32\SW_STM32\bin\Debug\SW_STM32.exe.config
+D:\SW_STM32\SW_STM32\bin\Debug\SW_STM32.exe
+D:\SW_STM32\SW_STM32\bin\Debug\SW_STM32.pdb
+D:\SW_STM32\SW_STM32\obj\Debug\SW_STM32.csproj.AssemblyReference.cache
+D:\SW_STM32\SW_STM32\obj\Debug\SW_STM32.Form1.resources
+D:\SW_STM32\SW_STM32\obj\Debug\SW_STM32.Properties.Resources.resources
+D:\SW_STM32\SW_STM32\obj\Debug\SW_STM32.csproj.GenerateResource.cache
+D:\SW_STM32\SW_STM32\obj\Debug\SW_STM32.csproj.CoreCompileInputs.cache
+D:\SW_STM32\SW_STM32\obj\Debug\SW_STM32.exe
+D:\SW_STM32\SW_STM32\obj\Debug\SW_STM32.pdb
